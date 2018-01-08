@@ -1,0 +1,1 @@
+# cordova-zebra-bluetooth-scanner
